@@ -12,13 +12,6 @@ green = '\033[32m'
 yellow = '\033[33m'
 blue = '\033[34m'
 magneto = '\033[36m'
-neofetch --on cowsay -f | lolcat
-echo -b "_____________________________________________________________" | lolcat
-echo -b "AUTHOR    : Cyber Attack $green " |lolcat
-echo -b "ASSOCIATE : KERALA TERMUX ASSOCIATION $green " |lolcat
-echo -b "ASSOCIATE : KERALA TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : KERALA DARK TERMUX ASSOCIATE $green " |lolcat
-echo -b "_____________________________________________________________" | lolcat
 os.system ('figlet -c -k -f slant CYBER ATTACK|lolcat')
 print ( magneto +'\n\t\t[ ★ Termux - Locked ★ ]\n',endc)
 print ( green +'\t\tcoded by - Mr.Cyber Attack\n',endc)
