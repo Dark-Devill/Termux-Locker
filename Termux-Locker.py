@@ -2,7 +2,7 @@
 import stdiomask as sm
 import os,sys
 
-# coded by Mr.Cyber Attack
+# coded by Mr.Shyam
 
 flag = True
 endc = '\033[0m'
@@ -12,9 +12,9 @@ green = '\033[32m'
 yellow = '\033[33m'
 blue = '\033[34m'
 magneto = '\033[36m'
-os.system ('figlet -c -k -f slant CYBER ATTACK|lolcat')
+os.system ('figlet -c -k -f slant DARK PRINCE |lolcat')
 print ( magneto +'\n\t\t[ ★ Termux - Locked ★ ]\n',endc)
-print ( green +'\t\tcoded by - Mr.Cyber Attack\n',endc)
+print ( green +'\t\tcoded by - Mr.Shyam \n',endc)
 
 def main_menu():
 	dash = '-'
